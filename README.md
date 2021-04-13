@@ -4,13 +4,13 @@ Visual Question Answering (VQA) is a system which takes image as an input and a 
 
 ### Required Packages
 
-spacy                     tensorflow==2.2.0
-Keras==2.3.1              random
-pickle                    gc
-operator                  collections
-itertools                 numpy
-pandas                    scipy
-scikit-learn              matplotlib
+spacy<br />                     tensorflow==2.2.0<br />
+Keras==2.3.1<br />              random<br />
+pickle<br />                    gc<br />
+operator<br />                  collections<br />
+itertools<br />                 numpy<br />
+pandas<br />                    scipy<br />
+scikit-learn<br />              matplotlib<br />
 
 ### Process Flow Diagram/ Model Prototype:
 
