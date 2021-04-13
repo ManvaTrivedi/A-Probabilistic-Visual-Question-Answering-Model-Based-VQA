@@ -12,7 +12,7 @@ itertools                 numpy
 pandas                    scipy
 scikit-learn              matplotlib
 
-### Model prototype
+### Process Flow diagram:
 
 ![image](https://user-images.githubusercontent.com/61022065/114539695-bb4ae180-9c22-11eb-83e8-cc821953d657.png)
 
