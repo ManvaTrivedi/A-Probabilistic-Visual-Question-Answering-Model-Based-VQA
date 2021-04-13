@@ -24,16 +24,16 @@ The model basically takes as an input and an image form the dataset, then we ext
 ### To train and test the (Word2Vec + LSTM) VQA model do the following steps
 1. Move into A-Probabilistic-Visual-Question-Answering-Model-Based-VQA directory
 2. Download the image features pickle file for train images from:
-   "https://drive.google.com/drive/u/0/folders/1IL7y2FRBEkyMIJaCg6JXPE1wmRo2bthT/view?usp=sharing"
+   "https://drive.google.com/drive/u/0/folders/1IL7y2FRBEkyMIJaCg6JXPE1wmRo2bthT"
 3. Download the image features pickle file for validation from:
-   "https://drive.google.com/drive/u/0/folders/1Y68VB3hI5Jq8lmSXyGTXtlYtVilIBOMG/view?usp=sharing"
+   "https://drive.google.com/drive/u/0/folders/1Y68VB3hI5Jq8lmSXyGTXtlYtVilIBOMG"
 4. Download the preprocessed data from the directory "Pre-processed files" and save them in the same folder.
 5. Install the requirements using the command "pip install -r requirements.txt"
 6. Run the VQA_Word2Vec_LSTM.py to train and test
                        
 ### You can download the pickle files used for training and testing here:
 
-https://drive.google.com/drive/u/0/folders/1Y68VB3hI5Jq8lmSXyGTXtlYtVilIBOMG/view?usp=sharing
+"https://drive.google.com/drive/u/0/folders/1Y68VB3hI5Jq8lmSXyGTXtlYtVilIBOMG"
 
 
 
