@@ -24,6 +24,7 @@ The model basically takes as an input and an image form the dataset, then we ext
                        
 ### You can download the pickle files used for training and testing here:
 
+https://drive.google.com/drive/u/0/folders/1Y68VB3hI5Jq8lmSXyGTXtlYtVilIBOMG
 
 
 
