@@ -1,2 +1,2 @@
-# A-Probabilistic-Visual-Question-Answering-Model-Based-VQA
+### A-Probabilistic-Visual-Question-Answering-Model-Based-VQA
 Visual Question Answering (VQA) is a system which takes image as an input and a question about the image and generates a natural language answer using complex reasoning. Thus, a VQA needs detailed understanding of the image and complex reason to predict the answer. This project introduces a pretrained model (VGGNet) to extract image features and Word2Vec to embed the words and LSTM to get word features from the question and after combining the results will predict the answer having highest probability.
